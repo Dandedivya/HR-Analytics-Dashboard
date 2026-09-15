@@ -27,7 +27,7 @@ The dashboard was designed to answer business-focused questions such as:
 
 ## 🚀 Live Dashboard
 
-👉 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/divya.dande/viz/HR_Analytics_Dashboard_17833539261150/HR_Analytics_Dashboard?publish=yes)
+🔗 **[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/divya.dande/viz/HR_Analytics_Dashboard_17833539261150/HR_Analytics_Dashboard?publish=yes)**
 
 ## 📌 Key KPIs
 
