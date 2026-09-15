@@ -22,7 +22,12 @@ The dashboard was designed to answer business-focused questions such as:
 - How does job satisfaction vary among employees who leave?
 
 ## Dashboard Preview
+
 ![Dashboard Preview](HR_Analytics_Dashboard.png)
+
+## 🚀 Live Dashboard
+
+👉 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/divya.dande/viz/HR_Analytics_Dashboard_17833539261150/HR_Analytics_Dashboard?publish=yes)
 
 ## 📌 Key KPIs
 
@@ -68,5 +73,6 @@ The dashboard analyzes employee attrition across multiple dimensions:
 - **Data Visualization** — Charts, comparisons, and dashboard design
 - **HR Analytics** — Employee attrition and workforce analysis
 
-## Created By
-Divya Dande
+## 👩‍💻 Created By
+
+**Divya Dande**
