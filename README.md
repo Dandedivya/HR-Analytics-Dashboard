@@ -1,4 +1,11 @@
-# HR Analytics Dashboard
+# 👥 HR Analytics Dashboard
+
+![Tableau](https://img.shields.io/badge/Tableau-Analytics-blue)
+![HR Analytics](https://img.shields.io/badge/HR-Analytics-purple)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-green)
+![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-orange)
+
+An interactive HR analytics dashboard built using Tableau to analyze employee attrition patterns and identify workforce trends across departments, job roles, demographics, salary levels, tenure, and job satisfaction.
 
 ## Project Overview
 This project presents an interactive HR Analytics Dashboard built in Tableau to analyze employee attrition across different business dimensions such as department, job role, gender, education field, age group, salary slab, years at company, and job satisfaction.
@@ -13,7 +20,7 @@ This project presents an interactive HR Analytics Dashboard built in Tableau to 
 - Average Salary: $6.5K
 - Average Age: 37
 
-## Visualizations
+## 🔍 Analysis Areas
 - Attrition by Department
 - Attrition by Job Role
 - Attrition by Gender
@@ -30,7 +37,7 @@ This project presents an interactive HR Analytics Dashboard built in Tableau to 
 - Laboratory Technicians and Sales Executives show higher attrition among job roles.
 - Attrition is highest in the early years at the company.
 
-## Tools Used
+## 🛠️ Tools & Technologies
 - Tableau Public
 - Excel / CSV
 - Data Visualization
